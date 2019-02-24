@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7C4E-86D4
+
+ Directory of C:\GitProject
+
+24/02/2019  12:51 PM    <DIR>          .
+24/02/2019  12:51 PM    <DIR>          ..
+24/02/2019  12:51 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   7,146,188,800 bytes free
